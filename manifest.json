@@ -1,0 +1,12 @@
+{
+    "type": "template",
+    "name": "Angular Project Template",
+    "version": "1.0",
+    "technologies": [
+        "TypeScript",
+        "SASS",
+        "Prettier",
+        "EsLint",
+        "StyleLint"
+    ]
+}
